@@ -1,0 +1,8 @@
+@font-face{
+	src: url(../Fonts/RobotoSlab-Bold.ttf);
+	font-family: Roboto;
+}
+
+header{
+	font-family: Roboto;
+}
